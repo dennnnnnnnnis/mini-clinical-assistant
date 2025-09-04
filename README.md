@@ -2,6 +2,18 @@
 
 A streamlined AI-powered clinical transcript processor built with Node.js, React, TypeScript, and SQLite. Transform consultation transcripts into structured SOAP notes and coding suggestions with session history tracking.
 
+## Demo
+
+### Video Demo
+[![Demo Video](cover-demo.png)](./demo.mov)
+
+### Key Features Shown
+- Upload/paste medical transcripts
+- AI-generated SOAP notes (Subjective, Objective, Assessment, Plan)
+- Medical coding suggestions (ICD-10, CPT codes)
+- Copy individual sections or export full JSON
+- Session history with persistent storage
+
 ## Setup
 
 ### Prerequisites
