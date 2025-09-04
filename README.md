@@ -37,6 +37,11 @@ cd backend && npm run dev
 cd frontend && npm run dev
 ```
 
+**Concurrently:**
+```bash
+npm run dev # starts both services
+```
+
 **Access:**
 - App: http://localhost:5173
 - API: http://localhost:3001
