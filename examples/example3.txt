@@ -1,0 +1,9 @@
+Doctor: Hi, how have you been managing your diabetes?
+Patient: Not so good. My blood sugar has been higher than usual the past month.
+Doctor: How often are you checking your sugars?
+Patient: About once a day. They’re usually around 180–200.
+Doctor: Are you taking your metformin regularly?
+Patient: I sometimes miss a dose if I forget in the evening.
+Doctor: Any other symptoms?
+Patient: Just feeling more tired than usual. No chest pain or vision changes.
+Doctor: Okay. Let’s talk about reinforcing medication adherence and maybe adjusting your dose.

@@ -1,0 +1,17 @@
+Doctor: Hi, what brings you in today?
+Patient: I've had a cough for the past two weeks, and it hasn't gone away.
+Doctor: Is the cough dry or are you producing mucus?
+Patient: It's mostly dry. Sometimes I feel a bit of tightness in my chest.
+Doctor: Any fever, chills, or shortness of breath?
+Patient: No fever or chills, but I do get short of breath when climbing stairs.
+Doctor: Do you have any history of asthma, allergies, or smoking?
+Patient: I have seasonal allergies, but I've never smoked.
+Doctor: Any other medical conditions or medications?
+Patient: I take antihistamines occasionally, but that's it.
+Doctor: Thanks. I'll listen to your lungs. [Exam performed] Lungs sound clear, no wheezing.
+Doctor: Based on what you're telling me and my exam, this seems like it could be related to your seasonal allergies, possibly post-nasal drip causing the cough. The shortness of breath with exertion is concerning though.
+Patient: What do you think we should do?
+Doctor: I'd like to start you on a nasal steroid spray and a cough suppressant. Let's also get a chest X-ray to make sure everything looks normal. If symptoms don't improve in a week, we'll reassess.
+Patient: That sounds good. How long should I use the nasal spray?
+Doctor: Start with two weeks, and we can adjust based on how you respond. Any questions about the treatment plan?
+Patient: No, I think that covers it. Thank you.

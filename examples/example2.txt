@@ -1,0 +1,11 @@
+Doctor: What brings you in today?
+Patient: I’ve had lower back pain for about 3 weeks now.
+Doctor: Did anything trigger it? Injury or heavy lifting?
+Patient: I think it started after moving some boxes.
+Doctor: How would you describe the pain?
+Patient: It’s a dull ache, worse when I sit for too long.
+Doctor: Any numbness, tingling, or weakness in your legs?
+Patient: No, nothing like that.
+Doctor: Have you tried anything for relief?
+Patient: Just some over-the-counter ibuprofen. It helps a little.
+Doctor: Okay, sounds like mechanical low back pain. Let’s discuss posture, stretching, and maybe physiotherapy.
